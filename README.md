@@ -1,2 +1,2 @@
 # OSINT
-Open source intelligence Tools
+Open Source Intelligence Tools
